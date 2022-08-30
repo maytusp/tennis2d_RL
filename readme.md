@@ -1,6 +1,6 @@
 The code is the part of Maytus Piriyajitakonkij's Individual Project (Dissertation), the half of MSc in Computing (AI and Machine Learning Specialism) programme at Imperial College London.
 
-![alt text](blended_all_tasks.pdf)
+![alt text](https://github.com/maytusp/tennis2d_RL/blob/main/blended_all_tasks.pdf)
 
 ## For training vanilla RL:  
 
