@@ -8,9 +8,18 @@ There are three main .py files
 
 
 
-## For training vanilla RL:
+## For training vanilla RL:  
 
-python main_rl.py --train --task counter --render \\
-python main_multi_agent.py --train --render
+<html>
+<head>
+<title>python main_rl.py --train --task counter --render  </title>
+</head>
+ 
+<head>
+<title>python main_multi_agent.py --train --render  </title>
+</head>
+
+
+
 
 
