@@ -1,10 +1,4 @@
-There are three main .py files
-
-### main_rl.py for running single-agent RL experiemnts
-
-### main_multi_agent.py for running multi-agent RL experiemnts
-
-### main_dynamics_model.py for running trajectory prediction experiements
+The code is the part of Maytus Piriyajitakonkij's Individual Project (Dissertation), the half of MSc in Computing (AI and Machine Learning Specialism) programme at Imperial College London.
 
 
 
