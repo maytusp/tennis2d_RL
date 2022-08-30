@@ -10,14 +10,15 @@ There are three main .py files
 
 ## For training vanilla RL:  
 
-<html>
-<head>
-<title>python main_rl.py --train --task counter --render  </title>
-</head>
- 
-<head>
-<title>python main_multi_agent.py --train --render  </title>
-</head>
+Single-agent training  
+```
+python main_rl.py --train --task counter --render
+```
+
+Multi-agent training  
+```
+python main_multi_agent.py --train --render
+```
 
 
 
